@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SABE
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: varungupta01
+Implementation-Vendor-Id: SABE
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/SABE/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
